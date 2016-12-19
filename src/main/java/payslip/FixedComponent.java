@@ -6,9 +6,9 @@ public class FixedComponent {
 		double basic = 14438;
 		return basic;
 	}
-	
+	//a little comment that is harmless
 	public double hraComponent(){
-		double hra = 5772;
+		double hra = 5775;
 		return hra;
 	}
 	
