@@ -13,7 +13,7 @@ table td {text-align: left;}
 <body>
 <h2 align="center">PAY SLIP OCTOBER 2016</h2>
 
-<table border="1" style="width:410" align="center">
+<table border="1" style="width: 410px;" align="center">
   <tr>
     <td><h5>Salary Components</h5></td>
     <td><h5>Monthly</h5></td>
