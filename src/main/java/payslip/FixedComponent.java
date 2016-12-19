@@ -8,7 +8,7 @@ public class FixedComponent {
 	}
 	
 	public double hraComponent(){
-		double hra = 5775;
+		double hra = 5772;
 		return hra;
 	}
 	
