@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="payslip:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="payslip-0.0.1.war">
+      <element id="artifact" artifact-name="payslip:war exploded" />
+    </root>
+  </artifact>
+</component>
