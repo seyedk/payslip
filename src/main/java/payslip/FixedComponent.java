@@ -11,7 +11,7 @@ public class FixedComponent {
 		double hra = 5775;
 		return hra;
 	}
-	
+	//inputs the Conveyanc Allowance
 	public double conveyanceAllowance(){
 		double conveyance = 800;
 		return conveyance;
